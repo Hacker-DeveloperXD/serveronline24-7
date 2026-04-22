@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ecyeryggvywcr",
+    "username": "Atharv_ki_Atma",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "DEVILSMPOP.aternos.me",
-    "port": 51185,
+    "ip": " 8iansSMP.aternos.me",
+    "port": 32519,
     "version": "1.21.1",
     "try-creative": true
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "I am craziest fan of Chaitanya and Shreyansh!",
+        "I am craziest fan of Chaitanya!",
         "I like to play Minecraft!",
         "Credits-Chaitanya Dixit"
       ]
