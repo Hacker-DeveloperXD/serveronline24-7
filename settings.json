@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "8iansSMP.aternos.me",
-    "port": 32519,
+    "ip": "FahFlameSMP.aternos.me",
+    "port": 46266,
     "version": "1.21.1",
     "try-creative": true
   },
